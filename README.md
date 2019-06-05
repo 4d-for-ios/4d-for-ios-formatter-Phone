@@ -1,4 +1,4 @@
-<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/template-formatters/formatter-phone.png" alt="Phone” height="auto" width=“200"></p>
+<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/template-formatters/formatter-phone.png" alt="Phone” height="auto" width="200"></p>
 
 ## Phone
 
