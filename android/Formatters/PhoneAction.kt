@@ -8,7 +8,7 @@ import androidx.databinding.BindingAdapter
 @BindingAdapter("phoneAction")
 fun phoneAction(view: TextView, phoneAction: String?) {
     if (phoneAction.isNullOrEmpty()) return
-
+    view.text = phoneAction
     view.setOnClickListener {
         val dialIntent = Intent(Intent.ACTION_DIAL)
         dialIntent.data = Uri.parse("tel:$phoneAction")
