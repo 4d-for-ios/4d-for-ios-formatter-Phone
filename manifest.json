@@ -1,5 +1,6 @@
 {
 	"name": "phone",
 	"binding": "phoneAction",
-	"type" : "text"
+	"type" : "text",
+	"target" : ["ios", "android"]
 }
